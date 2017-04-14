@@ -1,0 +1,51 @@
+Name = QWERTY overlay for Erin Call;
+Version = 0.1;
+Author = "Erin Call";
+KLL = 0.3c;
+
+#RIGHT HAND
+
+U"Equals": U"Right Brace";
+
+U"F": U"Y";
+U"G": U"U";
+U"C": U"I";
+U"R": U"O";
+U"L": U"P";
+U"Slash": U"Left Brace";
+
+U"D": U"H";
+U"H": U"J";
+U"T": U"K";
+U"N": U"L";
+U"S": U"Semicolon";
+U"Minus": U"Quote";
+
+U"B": U"N";
+U"M": U"M";
+U"W": U"Comma";
+U"V": U"Period";
+U"Z": U"Slash";
+
+U"Left Brace": U"Minus";
+U"Right Brace": U"Equals";
+
+#LEFT HAND
+
+U"Quote": U"Q";
+U"Comma": U"W";
+U"Period": U"E";
+U"P": U"R";
+U"Y": U"T";
+
+U"A": U"A";
+U"O": U"S";
+U"E": U"D";
+U"U": U"F";
+U"I": U"G";
+
+U"Semicolon": U"Z";
+U"Q": U"X";
+U"J": U"C";
+U"K": U"V";
+U"X": U"B";

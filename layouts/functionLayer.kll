@@ -1,0 +1,45 @@
+Name = Ecall Ergodox Right Hand Media Layer;
+Version = 0.1;
+Author = "Erin Call 2016";
+KLL = 0.3c;
+
+#RIGHT HAND
+
+U"6" : U"f6";
+U"7" : U"f7";
+U"8" : U"f8";
+U"9" : U"f9";
+U"0" : U"f10";
+U"\" : U"f11";
+
+# Numpad
+U"G" : U"7";   U"C" : U"8";   U"R" : U"9";
+
+U"H" : U"4";   U"T" : U"5";   U"N" : U"6";
+
+U"M" : U"1";   U"W" : U"2";   U"V" : U"3";
+
+U"D": U"0";
+U"B": U"0";
+
+
+#LEFT HAND
+
+U"1" : U"f1";
+U"2" : U"f2";
+U"3" : U"f3";
+U"4" : U"f4";
+U"5" : U"f5";
+
+U"'" : CONS["BRIGHTNESSINCREMENT"];
+U"A" : CONS["BRIGHTNESSDECREMENT"];
+
+U"," : CONS["MUTE"];              # row 2 ring finger
+U"." : CONS["VOLUMEDOWN"];        # row 2 middle finger
+U"P" : CONS["VOLUMEUP"];          # row 2 index finger
+
+U"O" : CONS["SCANPREVIOUSTRACK"]; # homerow ring finger
+U"E" : CONS["PAUSEPLAY"];         # homerow middle finger
+U"U" : CONS["SCANNEXTTRACK"];     # homerow index finger
+
+
